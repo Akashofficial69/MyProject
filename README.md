@@ -9,6 +9,6 @@ MyProject is a Python module for reading configurations from `.yaml`, `.cfg`, an
 Clone the repository and install the module:
 
 ```bash
-git clone <repo-url>
+git clone (https://github.com/Akashofficial69/MyProject.git)
 cd MyProject
 python setup.py install
